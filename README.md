@@ -26,15 +26,15 @@ This assignment should prove that a student is able to:
   - [X] Use `npm i` to install packages
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
   - [X] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [X] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+- [X] The code MUST be formatted with Prettier
+- [X] Push the changes to the Github repo, when finished.
+- [X] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
@@ -53,11 +53,11 @@ This assignment should prove that a student is able to:
 ```html
 <title>Sample project</title>
 ```
-- [ ] Set the page heading to be "Sample project"
+- [X] Set the page heading to be "Sample project"
 ```html 
 <h1> Sample project </h1>
 ```
-- [ ] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
+- [X] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
 ```html 
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint vitae, libero quae quasi nemo dignissimos consectetur cumque. Ipsum laborum libero iure.</p>
 ```
